@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e564e93e.css",
+    "main.js": "/static/js/main.5683e53c.js",
+    "static/js/801.6ba399e6.chunk.js": "/static/js/801.6ba399e6.chunk.js",
+    "static/js/744.3c4b2caf.chunk.js": "/static/js/744.3c4b2caf.chunk.js",
+    "static/media/signup.jpg": "/static/media/signup.90462aaa91f2212e9e0f.jpg",
+    "static/media/hospital.png": "/static/media/hospital.36e7e56a2b38df676f4b.png",
+    "index.html": "/index.html",
+    "main.e564e93e.css.map": "/static/css/main.e564e93e.css.map",
+    "main.5683e53c.js.map": "/static/js/main.5683e53c.js.map",
+    "801.6ba399e6.chunk.js.map": "/static/js/801.6ba399e6.chunk.js.map",
+    "744.3c4b2caf.chunk.js.map": "/static/js/744.3c4b2caf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e564e93e.css",
+    "static/js/main.5683e53c.js"
+  ]
+}

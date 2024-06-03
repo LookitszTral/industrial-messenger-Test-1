@@ -1,0 +1,99 @@
+{
+  "short_name": "Flotronics App",
+  "name": "Flotronics Automation Application",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": [
+      "focus-existing",
+      "auto"
+    ]
+  },
+  "start_url": "https://industrial-messenger-6ec06b5a40e9.herokuapp.com/PWA",
+  "display": "standalone",
+  "theme_color": "#0fcf04",
+  "background_color": "#000000",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 50
+  },
+  "description": "Flotronics Automation all in one application for consumers to find everything they would need for Aluminum Extrusion, Pneumatic Automation, Safety Applications, and more!",
+  "id": "Flotronics-Automation-Application",
+  "categories": [
+    "business",
+    "productivity",
+    "shopping",
+    "social",
+    "utilities"
+  ],
+  "dir": "ltr",
+  "screenshots": [
+    {
+      "src": "Screenshot1.PNG",
+      "sizes": "410x893",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Signup Screen"
+    },
+    {
+      "src": "Screenshot2.PNG",
+      "sizes": "410x893",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Sign In Screen"
+    },
+    {
+      "src": "Screenshot3.PNG",
+      "sizes": "410x893",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Messaging Example"
+    },
+    {
+      "src": "Screenshot-wide-1.PNG",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Messaging Example"
+    }
+  ],
+  "scope": "https://industrial-messenger-6ec06b5a40e9.herokuapp.com/",
+  "scope_extensions": [
+    {
+      "origin": "*https://www.thepneumaticstore.com/Category/Index/18466?webdesc=THE%20KNOWLEDGE%20CENTE"
+    },
+    {
+      "origin": "https://www.thepneumaticstore.com/"
+    },
+    {
+      "origin": "https://the-modular-solution.com/"
+    },
+    {
+      "origin": "https://thepneumaticstore.com/Images/pdf/app/tps-app.html"
+    }
+  ]
+}
